@@ -1,0 +1,6 @@
+[submodule "latinhas-front"]
+	path = latinhas-front
+	url = git@github.com:arthurpolon/latinhas-front.git
+[submodule "latinhas-back"]
+	path = latinhas-back
+	url = git@github.com:arthurpolon/latinhas-back.git
